@@ -1,37 +1,38 @@
 # Othmane Lamdala
 
-**Full-Stack Developer; ASP.NET Core | React | Django | SQL Server | REST APIs | Docker**
+**Full-Stack Developer**  
+ASP.NET Core | React | Django | SQL Server | REST APIs | Docker
 
-I build secure, database-driven web applications with a strong backend focus, while delivering practical frontend experiences for business users.
+I build secure, database-driven web applications with a strong backend focus and practical frontend experiences for business users.
 
 ## Core Skills
 
 - **Backend:** ASP.NET Core, Django, Django REST Framework, Entity Framework Core, REST API design
 - **Frontend:** React, Vite, Tailwind CSS, Material UI
 - **Databases:** SQL Server, MySQL, Firebase Realtime Database, SQLite
-- **Security & Access:** JWT authentication, role-based access control (RBAC)
+- **Security:** JWT authentication, role-based access control (RBAC)
 - **Testing & DevOps:** xUnit, integration testing, Testcontainers, Docker, GitHub Actions
 
 ## Selected Projects
 
-- **GestionEspaces** — Enterprise-style workspace management platform (ASP.NET Core + React + SQL Server, Clean Architecture, JWT/RBAC, tests, Docker)  
-  https://github.com/othman-gr3/gestion_des_espaces
-- **HarmonySchool2** — School incident management system (Django + DRF + MySQL, JWT, multi-role workflows)  
-  https://github.com/othman-gr3/harmonyschool2
-- **AppFac** — Invoice management web app (React + Firebase, role-based flows, PDF generation)  
-  https://github.com/othman-gr3/appfac
+Only my most complete and relevant projects are highlighted here.
+
+- **[GestionEspaces](https://github.com/othman-gr3/gestion_des_espaces)** — Enterprise-style workspace management platform built with ASP.NET Core, React, SQL Server, Clean Architecture, JWT/RBAC, automated tests, and Docker.
+- **[HarmonySchool2](https://github.com/othman-gr3/harmonyschool2)** — School incident management system built with Django, Django REST Framework, MySQL, JWT authentication, and multi-role workflows.
+- **[AppFac](https://github.com/othman-gr3/appfac)** — React invoice management application using Firebase, role-based workflows, dashboards, and PDF generation.
 
 ## Experience Highlight
 
-- **Full-Stack Developer Intern — ONEE, Casablanca (Siège Mohammed VI)**  
-  Contributed to **GestionEspaces**, building and structuring features across ASP.NET Core, React, and SQL Server, including role-based access, assignment workflows, and test-backed API development.
+- **Full-Stack Developer Intern — ONEE, Casablanca, Siège Mohammed VI**
+  - Contributed to **GestionEspaces**, working with ASP.NET Core, React, SQL Server, role-based access, assignment workflows, and API testing.
 
 ## Learning & Interests
 
-- Deepening backend architecture and API quality (clean layering, validation, maintainability)
-- Advancing SQL/data modeling and performance fundamentals
-- Continuing to improve testing, Docker workflows, and secure authentication patterns
+- Backend architecture and maintainable API design
+- SQL data modeling and performance fundamentals
+- Secure authentication and authorization
+- Testing, Docker, and CI/CD workflows
 
 ---
 
-Profile repository for recruiter-friendly overview and selected project links.
+This profile highlights selected portfolio projects. Smaller experiments and unfinished repositories are intentionally not featured here.
